@@ -1,0 +1,1 @@
+copy employee_details from 'G:/sqlpractice/Employee_Details.csv' Delimiter ',' csv header;

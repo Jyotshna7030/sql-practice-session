@@ -1,0 +1,1 @@
+update employee_details set salary = salary + salary * 0.08 where Isactive = false and departmentId = 0 and jobtitle in ('HR Manager','Financial Analyst','Business Analyst','Data Analyst');
